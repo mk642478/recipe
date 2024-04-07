@@ -16,5 +16,3 @@ Main items needed:
 <h3>Feel free to play around with the ingredients - whatever you do, it will be delicious!</h3>
 last line changed locally
 ### This is a REMOTE change :O
-
-![smoothie] (/Users/seven/recipe/recipe.png)
